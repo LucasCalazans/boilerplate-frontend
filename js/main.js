@@ -1,6 +1,7 @@
 require.config({
     baseUrl: 'js',
     paths: {
+        "text": "libs/requirejs-text",
         'ember': 'libs/ember.min',
         'ko': 'libs/knockout-3.4.2',
         'vue': 'libs/vue-2.4.0.min',
